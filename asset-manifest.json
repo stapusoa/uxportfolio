@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/uxportfolio/static/css/main.3fe94ac4.css",
+    "main.js": "/uxportfolio/static/js/main.bfb25f56.js",
+    "static/js/787.3aebaa96.chunk.js": "/uxportfolio/static/js/787.3aebaa96.chunk.js",
+    "static/media/proj1-background.jpg": "/uxportfolio/static/media/proj1-background.a0f16fa21f48d9831edb.jpg",
+    "static/media/background.jpg": "/uxportfolio/static/media/background.a18fa26f39ab654f0a3d.jpg",
+    "index.html": "/uxportfolio/index.html",
+    "main.3fe94ac4.css.map": "/uxportfolio/static/css/main.3fe94ac4.css.map",
+    "main.bfb25f56.js.map": "/uxportfolio/static/js/main.bfb25f56.js.map",
+    "787.3aebaa96.chunk.js.map": "/uxportfolio/static/js/787.3aebaa96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe94ac4.css",
+    "static/js/main.bfb25f56.js"
+  ]
+}
